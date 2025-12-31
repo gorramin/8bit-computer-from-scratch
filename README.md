@@ -40,7 +40,7 @@ Each day has its own folder containing:
 
 Example structure:
 
-```md
+
 ```text
 day-01/
 ├── README.md
