@@ -24,7 +24,6 @@ The project combines:
 
 The goal is clarity and understanding, not optimization or performance.
 
----
 
 ## III- How This Project Is Organized
 
@@ -52,7 +51,6 @@ day-01/
 I may not explain *every single detail* or theory exhaustively.  
 The focus is on **core ideas, important design decisions, and practical results**.
 
----
 
 ## IV- Tools & Software Used
 
@@ -68,8 +66,6 @@ The focus is on **core ideas, important design decisions, and practical results*
 GitHub: https://github.com/SebLague
 
 ---
-
-## V- Final Note
 
 This project is a learning experiment, a technical diary, and a personal challenge.
 
