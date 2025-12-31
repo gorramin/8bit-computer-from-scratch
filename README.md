@@ -5,7 +5,6 @@
   <img src="recources/OVERVIEW.JPG" alt="8-bit computer overview" width="800">
 </p>
 
----
 
 ## I- Introduction
 
@@ -15,7 +14,6 @@ Instead of relying on existing CPUs or abstractions, I focus on **logic gates, r
 
 This repository is as much about **learning and reasoning** as it is about the final result.
 
----
 
 ## II- Project Overview
 
