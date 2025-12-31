@@ -33,7 +33,7 @@ The goal is clarity and understanding, not optimization or performance.
 The project is documented **day by day**.
 
 Each day has its own folder containing:
-- A detailed `README.md` explaining the work of that day
+- A `README.md` explaining the work of that day
 - Logic simulations
 - Electrical schematics
 - Images and screenshots
