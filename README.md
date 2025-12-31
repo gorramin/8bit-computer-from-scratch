@@ -39,11 +39,15 @@ Each day has its own folder containing:
 - Images and screenshots
 
 Example structure:
+
+```md
+```text
 day-01/
 ├── README.md
 ├── simulation files/
 ├── schematic files/
 └── images/
+```
 
 
 ⚠️ **Note:**  
