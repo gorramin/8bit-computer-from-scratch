@@ -20,9 +20,9 @@ This repository is as much about **learning and reasoning** as it is about the f
 ## II- Project Overview
 
 The project combines:
-- 🔹 **Electronics simulation** (wiring, components, signals)
-- 🔹 **Digital logic simulation** (gates, registers, buses, control logic)
-- 🔹 **Written documentation** explaining design choices and results
+- **Electronics simulation** (wiring, components, signals)
+- **Digital logic simulation** (gates, registers, buses, control logic)
+- **Written documentation** explaining design choices and results
 
 The goal is clarity and understanding, not optimization or performance.
 
