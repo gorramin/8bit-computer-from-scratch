@@ -1,5 +1,5 @@
 
-# 👾 8-Bit Computer (Reinventing the Wheel)
+#       👾 8-Bit Computer (Reinventing the Wheel)
 
 <p align="center">
   <img src="recources/OVERVIEW.JPG" alt="8-bit computer overview" width="800">
