@@ -22,9 +22,6 @@ The project combines:
 - **Digital logic simulation** (gates, registers, buses, control logic)
 - **Written documentation** explaining design choices and results
 
-The goal is clarity and understanding, not optimization or performance.
-
-
 ## III- How This Project Is Organized
 
 The project is documented **day by day**.
