@@ -51,14 +51,11 @@ The focus is on **core ideas and practical results**.
 
 ## IV- Tools & Software Used
 
-### 🔹 Electrical Simulation
-- **Proteus** — for electronic circuit design and simulation
+- ** Electrical Simulation ** (Proteus)
 
-### 🔹 Logic Simulation
-- **Digital Logic Simulator** by **Sebastian Lague**  
-  Created by GitHub user **@SebLague**
+- ** Logic Simulation ** (Digital Logic Simulator by **Sebastian Lague**)
 
-🙏 Special thanks to **Sebastian Lague** for creating and sharing this excellent educational tool.
+🙏 Special thanks to **@SebLague** for creating and sharing this excellent educational tool.
 
 GitHub: https://github.com/SebLague
 
