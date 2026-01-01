@@ -24,7 +24,7 @@ The project combines:
 
 ## III- How This Project Is Organized
 
-The project is documented **day by day**.
+The project is documented **by days**.
 
 Each day has its own folder containing:
 - A `README.md` explaining the work of that day
