@@ -46,7 +46,7 @@ day-01/
 
 ⚠️ **Note:**  
 I may not explain *every single detail* or theory exhaustively.  
-The focus is on **core ideas, important design decisions, and practical results**.
+The focus is on **core ideas and practical results**.
 
 
 ## IV- Tools & Software Used
