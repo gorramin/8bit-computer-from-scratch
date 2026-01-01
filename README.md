@@ -51,9 +51,9 @@ The focus is on **core ideas and practical results**.
 
 ## IV- Tools & Software Used
 
-- ** Electrical Simulation ** (Proteus)
+- **Electrical Simulation** (Proteus)
 
-- ** Logic Simulation ** (Digital Logic Simulator by **Sebastian Lague**)
+- **Logic Simulation** (Digital Logic Simulator by **Sebastian Lague**)
 
 🙏 Special thanks to **@SebLague** for creating and sharing this excellent educational tool.
 
