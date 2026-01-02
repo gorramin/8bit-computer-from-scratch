@@ -38,9 +38,10 @@ Example structure:
 ```text
 day-01/
 ├── README.md
-├── simulation files/
-├── schematic files/
-└── images/
+├── hardware-states/
+├── simulation/
+├── schematics/
+└── resources/
 ```
 
 
