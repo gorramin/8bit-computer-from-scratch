@@ -250,7 +250,7 @@ Each gate was tested in **all possible input states**, and the physical behavior
 A digital simulation was created to validate the behavior of all logic gates.
 
 📁 **Video:** 
-[![Demo Video](https://youtu.be/ZzSyxtflKAc/0.jpg)](https://youtu.be/ZzSyxtflKAc)
+[![Demo Video](simulation/thumb.png)](https://youtu.be/ZzSyxtflKAc)
 
 This simulation confirms that the transistor-level implementations behave exactly as expected according to the truth tables.
 
