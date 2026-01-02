@@ -215,7 +215,7 @@ Each gate was tested in **all possible input states**, and the physical behavior
 
 ---
 
-### 🔹 NXOR Gate
+### NXOR Gate
 
 **Truth Table**
 
