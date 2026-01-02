@@ -46,7 +46,7 @@ Each gate was tested in **all possible input states**, and the physical behavior
 </table>
 
 **Schematic**  
-![AND Gate Schematic](schematics/AND_SCH.jpg)
+![AND Gate Schematic](schematics/NOT_SCH.jpg)
 
 ---
 
@@ -62,10 +62,20 @@ Each gate was tested in **all possible input states**, and the physical behavior
 | 1 | 1 |   1    |
 
 **Hardware States**  
-📂 See: `hardware-states/AND_00.jpg` → `AND_11.jpg`
+<table>
+  <tr>
+    <td><img src="hardware-states/AND_00.JPG" alt="AND 00" width="450"></td>
+    <td><img src="hardware-states/AND_01.JPG" alt="AND 01" width="450"></td>
+  </tr>
+  <tr>
+    <td><img src="hardware-states/AND_10.JPG" alt="AND 10" width="450"></td>
+    <td><img src="hardware-states/AND_11.JPG" alt="AND 11" width="450"></td>
+  </tr>
+</table>
+
 
 **Schematic**  
-📂 See: `schematics/AND_schematic.jpg`
+![AND Gate Schematic](schematics/AND_SCH.jpg)
 
 ---
 
