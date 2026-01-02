@@ -40,8 +40,8 @@ Each gate was tested in **all possible input states**, and the physical behavior
 **Hardware States**  
 <table>
   <tr>
-    <td><img src="hardware-states/NOT_0.JPG" alt="AND 00" width="200"></td>
-    <td><img src="hardware-states/NOT_1.JPG" alt="AND 01" width="200"></td>
+    <td><img src="hardware-states/NOT_0.JPG" alt="AND 00" width="300"></td>
+    <td><img src="hardware-states/NOT_1.JPG" alt="AND 01" width="300"></td>
   </tr>
 </table>
 
