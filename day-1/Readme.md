@@ -67,7 +67,7 @@ Each gate was tested in **all possible input states**, and the physical behavior
 </table>
 
 **Schematic**  
-![AND Gate Schematic](schematics/NOT_SCH.jpg)
+<img src="schematics/NOT_SCH.jpg" width="825">
 
 ---
 
@@ -96,7 +96,7 @@ Each gate was tested in **all possible input states**, and the physical behavior
 
 
 **Schematic**  
-![AND Gate Schematic](schematics/AND_SCH.jpg)
+<img src="schematics/AND_SCH.jpg" width="825">
 
 ---
 
@@ -125,7 +125,7 @@ Each gate was tested in **all possible input states**, and the physical behavior
 
 
 **Schematic**  
-![AND Gate Schematic](schematics/NAND_SCH.jpg)
+<img src="schematics/NAND_SCH.jpg" width="825">
 
 ---
 
@@ -143,18 +143,18 @@ Each gate was tested in **all possible input states**, and the physical behavior
 **Hardware States**  
 <table>
   <tr>
-    <td><img src="hardware-states/OR_00.JPG" alt="AND 00" width="400"></td>
-    <td><img src="hardware-states/OR_01.JPG" alt="AND 01" width="400"></td>
+    <td><img src="hardware-states/OR_00.JPG" width="400"></td>
+    <td><img src="hardware-states/OR_01.JPG" width="400"></td>
   </tr>
   <tr>
-    <td><img src="hardware-states/OR_10.JPG" alt="AND 10" width="400"></td>
-    <td><img src="hardware-states/OR_11.JPG" alt="AND 11" width="400"></td>
+    <td><img src="hardware-states/OR_10.JPG" width="400"></td>
+    <td><img src="hardware-states/OR_11.JPG" width="400"></td>
   </tr>
 </table>
 
 
 **Schematic**  
-![AND Gate Schematic](schematics/OR_SCH.jpg)
+<img src="schematics/OR_SCH.jpg" width="825">
 
 ---
 
@@ -183,7 +183,7 @@ Each gate was tested in **all possible input states**, and the physical behavior
 
 
 **Schematic**  
-![AND Gate Schematic](schematics/NOR_SCH.jpg)
+<img src="schematics/NOR_SCH.jpg" width="825">
 
 ---
 
@@ -201,18 +201,47 @@ Each gate was tested in **all possible input states**, and the physical behavior
 **Hardware States**  
 <table>
   <tr>
-    <td><img src="hardware-states/XOR_00.JPG" alt="AND 00" width="400"></td>
-    <td><img src="hardware-states/XOR_01.JPG" alt="AND 01" width="400"></td>
+    <td><img src="hardware-states/XOR_00.JPG" width="400"></td>
+    <td><img src="hardware-states/XOR_01.JPG" width="400"></td>
   </tr>
   <tr>
-    <td><img src="hardware-states/XOR_10.JPG" alt="AND 10" width="400"></td>
-    <td><img src="hardware-states/XOR_11.JPG" alt="AND 11" width="400"></td>
+    <td><img src="hardware-states/XOR_10.JPG" width="400"></td>
+    <td><img src="hardware-states/XOR_11.JPG" width="400"></td>
   </tr>
 </table>
 
 
 **Schematic**  
-![AND Gate Schematic](schematics/XOR_SCH.jpg)
+<img src="schematics/XOR_SCH.jpg" width="825">
+
+---
+
+### 🔹 NXOR Gate
+
+**Truth Table**
+
+| A | B | Output |
+|---|---|--------|
+| 0 | 0 |   1    |
+| 0 | 1 |   0    |
+| 1 | 0 |   0    |
+| 1 | 1 |   1]    |
+
+**Hardware States**  
+<table>
+  <tr>
+    <td><img src="hardware-states/NXOR_00.JPG" width="400"></td>
+    <td><img src="hardware-states/NXOR_01.JPG" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="hardware-states/NXOR_10.JPG" width="400"></td>
+    <td><img src="hardware-states/NXOR_11.JPG" width="400"></td>
+  </tr>
+</table>
+
+
+**Schematic**  
+<img src="schematics/NXOR_SCH.jpg" width="825">
 
 ---
 
