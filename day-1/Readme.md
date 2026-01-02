@@ -1,4 +1,4 @@
-# Day 1 – Logic Gates (8-Bit Computer Project)
+  # Day 1 – Logic Gates (8-Bit Computer Project)
 
 This is **Day 1** of my **8-bit computer from scratch** project.
 
@@ -250,10 +250,7 @@ Each gate was tested in **all possible input states**, and the physical behavior
 A digital simulation was created to validate the behavior of all logic gates.
 
 📁 **Video:** 
-<video width="480" controls>
-  <source src="simulation/logic_simulation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Demo Video](https://youtu.be/ZzSyxtflKAc/0.jpg)](https://youtu.be/ZzSyxtflKAc)
 
 This simulation confirms that the transistor-level implementations behave exactly as expected according to the truth tables.
 
