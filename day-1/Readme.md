@@ -39,8 +39,8 @@ Each gate was tested in **all possible input states**, and the physical behavior
 
 **Hardware States**  
 <p>
-    <img src=""hardware-states/NOT_0.jpg" >
-    <img src=""hardware-states/NOT_1.jpg" >
+    <img src="hardware-states/NOT_0.jpg" >
+    <img src="hardware-states/NOT_1.jpg" >
 </p>
 
 **Schematic**  
