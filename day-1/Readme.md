@@ -38,10 +38,12 @@ Each gate was tested in **all possible input states**, and the physical behavior
 |   1   |   0    |
 
 **Hardware States**  
-<p>
-    <img src="hardware-states/NOT_0.JPG" >
-    <img src="hardware-states/NOT_1.JPG" >
-</p>
+<table>
+  <tr>
+    <td><img src="hardware-states/NOT_0.JPG" alt="AND 00" width="200"></td>
+    <td><img src="hardware-states/NOT_1.JPG" alt="AND 01" width="200"></td>
+  </tr>
+</table>
 
 **Schematic**  
 ![AND Gate Schematic](schematics/AND_SCH.jpg)
