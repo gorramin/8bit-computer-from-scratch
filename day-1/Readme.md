@@ -250,7 +250,10 @@ Each gate was tested in **all possible input states**, and the physical behavior
 A digital simulation was created to validate the behavior of all logic gates.
 
 📁 **Video:** 
-[Watch the simulation video](simulation/logic_simulation.mp4)
+<video width="480" controls>
+  <source src="simulation/logic_simulation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 This simulation confirms that the transistor-level implementations behave exactly as expected according to the truth tables.
 
@@ -258,5 +261,6 @@ This simulation confirms that the transistor-level implementations behave exactl
 
 The complete simulation project file is available for further inspection and modification.
 
-📂 **Proteus Simulation File:**  
+📂 [Proteus Simulation File](resources/)
+
 
