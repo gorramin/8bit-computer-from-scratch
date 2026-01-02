@@ -45,7 +45,7 @@ Each gate was tested in **all possible input states**, and the physical behavior
 </table>
 
 **Schematic**  
-<img src="schematics/BUFFER_SCH.jpg" width="800">
+<img src="schematics/BUFFER_SCH.jpg" width="825">
 
 ---
 
