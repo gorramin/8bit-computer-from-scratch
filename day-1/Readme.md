@@ -26,7 +26,6 @@ The following logic gates were implemented and tested:
 
 Each gate was tested in **all possible input states**, and the physical behavior was observed and documented.
 
-## 🔍 Logic Gates
 
 ### 🔹 BUFFER Gate
 
@@ -46,7 +45,7 @@ Each gate was tested in **all possible input states**, and the physical behavior
 </table>
 
 **Schematic**  
-![AND Gate Schematic](schematics/BUFFER_SCH.jpg)
+<img src="schematics/BUFFER_SCH.jpg" width="400">
 
 ---
 
