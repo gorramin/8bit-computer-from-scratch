@@ -28,6 +28,28 @@ Each gate was tested in **all possible input states**, and the physical behavior
 
 ## 🔍 Logic Gates
 
+### 🔹 BUFFER Gate
+
+**Truth Table**
+
+| Input | Output |
+|------:|-------:|
+|   0   |   0    |
+|   1   |   1    |
+
+**Hardware States**  
+<table>
+  <tr>
+    <td><img src="hardware-states/BUFFER_0.JPG" width="400"></td>
+    <td><img src="hardware-states/BUFFER_1.JPG" width="400"></td>
+  </tr>
+</table>
+
+**Schematic**  
+![AND Gate Schematic](schematics/BUFFER_SCH.jpg)
+
+---
+
 ### 🔹 NOT Gate
 
 **Truth Table**
@@ -40,8 +62,8 @@ Each gate was tested in **all possible input states**, and the physical behavior
 **Hardware States**  
 <table>
   <tr>
-    <td><img src="hardware-states/NOT_0.JPG" alt="AND 00" width="400"></td>
-    <td><img src="hardware-states/NOT_1.JPG" alt="AND 01" width="400"></td>
+    <td><img src="hardware-states/NOT_0.JPG" width="400"></td>
+    <td><img src="hardware-states/NOT_1.JPG" width="400"></td>
   </tr>
 </table>
 
@@ -79,6 +101,35 @@ Each gate was tested in **all possible input states**, and the physical behavior
 
 ---
 
+### 🔹 NAND Gate
+
+**Truth Table**
+
+| A | B | Output |
+|---|---|--------|
+| 0 | 0 |   1    |
+| 0 | 1 |   1    |
+| 1 | 0 |   1    |
+| 1 | 1 |   0    |
+
+**Hardware States**  
+<table>
+  <tr>
+    <td><img src="hardware-states/NAND_00.JPG" width="400"></td>
+    <td><img src="hardware-states/NAND_01.JPG" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="hardware-states/NAND_10.JPG" width="400"></td>
+    <td><img src="hardware-states/NAND_11.JPG" width="400"></td>
+  </tr>
+</table>
+
+
+**Schematic**  
+![AND Gate Schematic](schematics/NAND_SCH.jpg)
+
+---
+
 ### 🔹 OR Gate
 
 **Truth Table**
@@ -91,10 +142,49 @@ Each gate was tested in **all possible input states**, and the physical behavior
 | 1 | 1 |   1    |
 
 **Hardware States**  
-📂 See: `hardware-states/OR_00.jpg` → `OR_11.jpg`
+<table>
+  <tr>
+    <td><img src="hardware-states/OR_00.JPG" alt="AND 00" width="400"></td>
+    <td><img src="hardware-states/OR_01.JPG" alt="AND 01" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="hardware-states/OR_10.JPG" alt="AND 10" width="400"></td>
+    <td><img src="hardware-states/OR_11.JPG" alt="AND 11" width="400"></td>
+  </tr>
+</table>
+
 
 **Schematic**  
-📂 See: `schematics/OR_schematic.jpg`
+![AND Gate Schematic](schematics/OR_SCH.jpg)
+
+---
+
+### 🔹 NOR Gate
+
+**Truth Table**
+
+| A | B | Output |
+|---|---|--------|
+| 0 | 0 |   1    |
+| 0 | 1 |   0    |
+| 1 | 0 |   0    |
+| 1 | 1 |   0    |
+
+**Hardware States**  
+<table>
+  <tr>
+    <td><img src="hardware-states/NOR_00.JPG" width="400"></td>
+    <td><img src="hardware-states/NOR_01.JPG" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="hardware-states/NOR_10.JPG" width="400"></td>
+    <td><img src="hardware-states/NOR_11.JPG" width="400"></td>
+  </tr>
+</table>
+
+
+**Schematic**  
+![AND Gate Schematic](schematics/NOR_SCH.jpg)
 
 ---
 
@@ -110,26 +200,24 @@ Each gate was tested in **all possible input states**, and the physical behavior
 | 1 | 1 |   0    |
 
 **Hardware States**  
-📂 See: `hardware-states/XOR_00.jpg` → `XOR_11.jpg`
+<table>
+  <tr>
+    <td><img src="hardware-states/XOR_00.JPG" alt="AND 00" width="400"></td>
+    <td><img src="hardware-states/XOR_01.JPG" alt="AND 01" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="hardware-states/XOR_10.JPG" alt="AND 10" width="400"></td>
+    <td><img src="hardware-states/XOR_11.JPG" alt="AND 11" width="400"></td>
+  </tr>
+</table>
+
 
 **Schematic**  
-📂 See: `schematics/XOR_schematic.jpg`
+![AND Gate Schematic](schematics/XOR_SCH.jpg)
 
 ---
 
-### 🔹 NAND, NOR, XNOR Gates
 
-These gates were derived and implemented using transistor-level logic.
-
-For each gate:
-- ✅ Full truth table verified
-- ✅ All input states tested on real hardware
-- ✅ Electrical schematic documented
-
-📂 **Hardware states:** `hardware-states/`  
-📂 **Schematics:** `schematics/`
-
----
 
 ## 🎥 Logic Simulation
 
