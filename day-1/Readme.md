@@ -2,8 +2,7 @@
 
 This is **Day 1** of my **8-bit computer from scratch** project.
 
-In this first day, I focused entirely on the **fundamental building blocks of digital systems**:  
-👉 **Logic gates implemented at transistor level**
+In this first day, I focused entirely on the **fundamental building blocks of digital systems**:  **Logic gates implemented at transistor level**
 
 For each logic gate, I built and verified:
 - The **real hardware implementation** using transistors
@@ -27,7 +26,7 @@ The following logic gates were implemented and tested:
 Each gate was tested in **all possible input states**, and the physical behavior was observed and documented.
 
 
-### 🔹 BUFFER Gate
+### BUFFER Gate
 
 **Truth Table**
 
@@ -49,7 +48,7 @@ Each gate was tested in **all possible input states**, and the physical behavior
 
 ---
 
-### 🔹 NOT Gate
+### NOT Gate
 
 **Truth Table**
 
@@ -71,7 +70,7 @@ Each gate was tested in **all possible input states**, and the physical behavior
 
 ---
 
-### 🔹 AND Gate
+### AND Gate
 
 **Truth Table**
 
@@ -100,7 +99,7 @@ Each gate was tested in **all possible input states**, and the physical behavior
 
 ---
 
-### 🔹 NAND Gate
+### NAND Gate
 
 **Truth Table**
 
@@ -129,7 +128,7 @@ Each gate was tested in **all possible input states**, and the physical behavior
 
 ---
 
-### 🔹 OR Gate
+### OR Gate
 
 **Truth Table**
 
@@ -158,7 +157,7 @@ Each gate was tested in **all possible input states**, and the physical behavior
 
 ---
 
-### 🔹 NOR Gate
+### NOR Gate
 
 **Truth Table**
 
@@ -187,7 +186,7 @@ Each gate was tested in **all possible input states**, and the physical behavior
 
 ---
 
-### 🔹 XOR Gate
+### XOR Gate
 
 **Truth Table**
 
@@ -245,16 +244,16 @@ Each gate was tested in **all possible input states**, and the physical behavior
 
 ---
 
-## 🎥 Logic Simulation
+##  Logic Simulation
 
 A digital simulation was created to validate the behavior of all logic gates.
 
-📁 **Video:** 
+🎥 **Logics simulation video:** 
 [![Demo Video](simulation/thumb.png)](https://youtu.be/ZzSyxtflKAc)
 
 This simulation confirms that the transistor-level implementations behave exactly as expected according to the truth tables.
 
-## 📦 Resources
+## Resources
 
 The complete simulation project file is available for further inspection and modification.
 
